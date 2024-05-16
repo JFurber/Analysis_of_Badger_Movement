@@ -1,4 +1,4 @@
-# Analysis_of_Badger_Movement
+# Analysis of Badger Movement
 Files for the analysis of GPS badger movement in relation to the paper 'Data-driven Analysis of Badger Movement Data'
 
 Files include:
