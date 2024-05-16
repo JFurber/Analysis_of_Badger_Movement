@@ -1,2 +1,15 @@
 # Analysis_of_Badger_Movement
-Files of the analysis of GPS badger movement
+Files for the analysis of GPS badger movement in relation to the paper 'Data-driven Analysis of Badger Movement Data'
+
+Files include:
+<ul>
+  <li> Conversion of coordinates from Latitude/Longitude to Easting/Northing (and back) - <i>R coding</i> </li>
+  <li> Interpolation of coordinates for correct format of data for extended dynamic mode decomposition - <i>Matlab </li>
+  <li> Code to estimate the diffusion: </li>
+    <ol>
+      <li> separetely or as one whole file - <i> Python </i> </li>
+      <li> automatically splitting the file into year and month for each individual - <i> Python </i> </li>
+    </ol>
+  <li> Estimation of number of clusters via k-means clustering - <i> Python</i> </li>
+  <li> Generation of metastable states via extended dynamic mode decomposition (EDMD) - <i> Python </i> </li>
+</ul>
