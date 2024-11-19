@@ -10,7 +10,6 @@ Files include:
       <li> separetely or as one whole file - <i> Python </i> </li>
       <li> automatically splitting the file into year and month for each individual - <i> Python </i> </li>
     </ol>
-  <li> Estimation of number of clusters via k-means clustering - <i> Python</i> </li>
   <li> Generation of metastable states via extended dynamic mode decomposition (EDMD) - <i> Python </i> </li>
 </ul>
 
